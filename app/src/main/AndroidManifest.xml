@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ucubookstore">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShopDeck">
+        <activity android:name="com.example.ucubookstore.AdminRejectOrder"></activity>
+        <activity android:name="com.example.ucubookstore.WProductDetails" />
+        <activity android:name="com.example.ucubookstore.WishList" />
+        <activity android:name="com.example.ucubookstore.AdminFeedback" />
+        <activity android:name="com.example.ucubookstore.Feedback" />
+        <activity android:name="com.example.ucubookstore.OrdersProduct" />
+        <activity android:name="com.example.ucubookstore.AllOrders" />
+        <activity android:name="com.example.ucubookstore.CategoryItems" />
+        <activity android:name="com.example.ucubookstore.Category" />
+        <activity android:name="com.example.ucubookstore.ContactUs" />
+        <activity android:name="com.example.ucubookstore.AboutUs" />
+        <activity android:name="com.example.ucubookstore.AdminUserProducts" />
+        <activity android:name="com.example.ucubookstore.AdminNewOrders" />
+        <activity android:name="com.example.ucubookstore.AdminMaintain" />
+        <activity android:name="com.example.ucubookstore.ConfirmOrder" />
+        <activity android:name="com.example.ucubookstore.Settings" />
+        <activity android:name="com.example.ucubookstore.Cart" />
+        <activity android:name="com.example.ucubookstore.ProductDetails" />
+        <activity android:name="com.example.ucubookstore.Header" />
+        <activity android:name="com.example.ucubookstore.Admin_AddProduct" />
+        <activity android:name="com.example.ucubookstore.Admin_ProductCategory" />
+        <activity android:name="com.example.ucubookstore.AdminHome" />
+        <activity android:name="com.example.ucubookstore.Nav_Home" />
+        <activity android:name="com.example.ucubookstore.Login" />
+        <activity android:name="com.example.ucubookstore.Register" />
+        <activity android:name="com.example.ucubookstore.Home" />
+        <activity android:name="com.example.ucubookstore.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

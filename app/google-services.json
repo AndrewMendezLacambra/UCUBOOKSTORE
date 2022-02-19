@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "56248942389",
+    "firebase_url": "https://ucu-bs-v2-default-rtdb.firebaseio.com",
+    "project_id": "ucu-bs-v2",
+    "storage_bucket": "ucu-bs-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56248942389:android:6474fcaefc3c9ae3c5167c",
+        "android_client_info": {
+          "package_name": "com.example.ucubookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56248942389-rf1rfjr2g28uacruk3a4donakhlar9tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJ4ajPsSbknBGvf8wErqNHpBghX0Npyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56248942389-rf1rfjr2g28uacruk3a4donakhlar9tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56248942389:android:2a1ad0a5e059fa6ac5167c",
+        "android_client_info": {
+          "package_name": "com.example.ucubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56248942389-rf1rfjr2g28uacruk3a4donakhlar9tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJ4ajPsSbknBGvf8wErqNHpBghX0Npyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56248942389-rf1rfjr2g28uacruk3a4donakhlar9tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
